@@ -11,3 +11,25 @@
 - Golden Globes
 - BAFTA
 - Critics' Choice Awards
+
+# Possíveis Colunas
+
+year
+name
+movie
+age
+movie_genre
+sag_nominated
+sag_winner
+bafta_nominated
+bafta_winner
+critics_nominated
+critics_winner
+bilheteria_milhoes
+nota_critica
+oscar_winner
+
+# Treino com ML
+
+- Random Forest
+- Logistic Regression
