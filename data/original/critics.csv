@@ -1,0 +1,295 @@
+ano,nome,personagem,filme,ganhou
+1995,Nicole Kidman,Suzanne Stone-Maretto,"To Die For 
+",True
+1996,Frances McDormand,Marge Gunderson,"Fargo 
+",True
+1997,Helena Bonham Carter,Kate Croy,"The Wings of the Dove 
+",True
+1998,Cate Blanchett,Queen Elizabeth I,"Elizabeth 
+",True
+1999,Hilary Swank,Brandon Teena ,"Boys Don't Cry 
+",True
+2000,Julia Roberts,Erin Brockovich ,"Erin Brockovich 
+",True
+2001,Sissy Spacek,Ruth Fowler,"In the Bedroom 
+",True
+2001,Nicole Kidman,Satine,"Moulin Rouge!
+",False
+2001,Renée Zellweger,Bridget Jones,"Bridget Jones's Diary
+",False
+2002,Julianne Moore,Cathy Whitaker,"Far from Heaven 
+",True
+2002,Salma Hayek,Frida Kahlo,"Frida
+",False
+2002,Nicole Kidman,Virginia Woolf,"The Hours
+",False
+2002,Diane Lane,"Constance ""Connie"" Sumner","Unfaithful
+",False
+2003,Charlize Theron,Aileen Wuornos,"Monster 
+",True
+2003,Jennifer Connelly,Kathy Nicolo,"House of Sand and Fog
+",False
+2003,Diane Keaton,Erica Barry,"Something's Gotta Give
+",False
+2003,Nicole Kidman,Ada Monroe,"Cold Mountain
+",False
+2003,Samantha Morton,Sarah Sullivan,"In America
+",False
+2003,Naomi Watts,"Cristina ""Cris"" Peck","21 Grams
+",False
+2004,Hilary Swank,"Margaret ""Maggie"" Fitzgerald","Million Dollar Baby 
+",True
+2004,Annette Bening,Julia Lambert,"Being Julia
+",False
+2004,Catalina Sandino Moreno,María Álvarez,"Maria Full of Grace
+",False
+2004,Imelda Staunton,Vera Drake,"Vera Drake
+",False
+2004,Kate Winslet,Clementine Kruczynski,"Eternal Sunshine of the Spotless Mind
+",False
+2004,Uma Thurman,Beatrix Kiddo,"Kill Bill: Volume 2
+",False
+2005,Reese Witherspoon,June Carter Cash,"Walk the Line 
+",True
+2005,Joan Allen,Terry Wolfmeyer,"The Upside of Anger
+",False
+2005,Judi Dench,Laura Henderson,"Mrs Henderson Presents
+",False
+2005,Felicity Huffman,"Sabrina ""Bree"" Osbourne","Transamerica
+",False
+2005,Keira Knightley,Elizabeth Bennet,"Pride & Prejudice
+",False
+2005,Charlize Theron,Josey Aimes,"North Country
+",False
+2006,Helen Mirren,Queen Elizabeth II,"The Queen 
+",True
+2006,Penélope Cruz,Raimunda,"Volver
+",False
+2006,Judi Dench,Barbara Covett,"Notes on a Scandal
+",False
+2006,Meryl Streep,Miranda Priestly,"The Devil Wears Prada
+",False
+2006,Kate Winslet,Sarah Pierce,"Little Children
+",False
+2007,Julie Christie,Fiona Anderson,"Away from Her 
+",True
+2007,Amy Adams,Princess Giselle,"Enchanted
+",False
+2007,Cate Blanchett,Queen Elizabeth I,"Elizabeth: The Golden Age
+",False
+2007,Marion Cotillard,Édith Piaf,"La Vie en Rose
+",False
+2007,Angelina Jolie,Mariane Pearl,"A Mighty Heart
+",False
+2007,Elliot Page,Juno MacGuff,"Juno
+",False
+2008,Anne Hathaway,Kym Buchman,"Rachel Getting Married 
+",True
+2008,Meryl Streep,Sister Aloysius Beauvier,"Doubt 
+",True
+2008,Kate Beckinsale,Rachel Armstrong,"Nothing but the Truth
+",False
+2008,Cate Blanchett,Daisy Fuller (adult),"The Curious Case of Benjamin Button
+",False
+2008,Angelina Jolie,Christine Collins,"Changeling
+",False
+2008,Melissa Leo,Ray Eddy,"Frozen River
+",False
+2009,Sandra Bullock,Leigh Anne Tuohy,"The Blind Side 
+",True
+2009,Meryl Streep,Julia Child,"Julie & Julia 
+",True
+2009,Emily Blunt,Queen Victoria,"The Young Victoria
+",False
+2009,Carey Mulligan,Jenny Miller,"An Education
+",False
+2009,Saoirse Ronan,Susie Salmon,"The Lovely Bones
+",False
+2009,Gabourey Sidibe,"Claireece ""Precious"" Jones","Precious
+",False
+2010,Natalie Portman,Nina Sayers,"Black Swan 
+",True
+2010,Annette Bening,"Dr. Nicole ""Nic"" Allgood","The Kids Are All Right
+",False
+2010,Nicole Kidman,Becca Corbett,"Rabbit Hole
+",False
+2010,Jennifer Lawrence,Ree Dolly,"Winter's Bone
+",False
+2010,Noomi Rapace,Lisbeth Salander,"The Girl with the Dragon Tattoo
+",False
+2010,Michelle Williams,"Cynthia ""Cindy"" Heller","Blue Valentine
+",False
+2011,Viola Davis,Aibileen Clark,"The Help 
+",True
+2011,Elizabeth Olsen,Martha,"Martha Marcy May Marlene
+",False
+2011,Meryl Streep,Margaret Thatcher,"The Iron Lady
+",False
+2011,Tilda Swinton,Eva Khatchadourian,"We Need to Talk About Kevin
+",False
+2011,Charlize Theron,Mavis Gary,"Young Adult
+",False
+2011,Michelle Williams,Marilyn Monroe,"My Week with Marilyn
+",False
+2012,Jessica Chastain,Maya Harris,"Zero Dark Thirty 
+",True
+2012,Marion Cotillard,Stéphanie,"Rust and Bone
+",False
+2012,Jennifer Lawrence,Tiffany Maxwell,"Silver Linings Playbook
+",False
+2012,Emmanuelle Riva,Anne Laurent,"Amour
+",False
+2012,Quvenzhané Wallis,Hushpuppy,"Beasts of the Southern Wild
+",False
+2012,Naomi Watts,Maria Bennett,"The Impossible
+",False
+2013,Cate Blanchett,"Jeanette ""Jasmine"" Francis","Blue Jasmine 
+",True
+2013,Sandra Bullock,Dr. Ryan Stone,"Gravity
+",False
+2013,Judi Dench,Philomena Lee,"Philomena 
+",False
+2013,Brie Larson,Grace Howard,"Short Term 12
+",False
+2013,Meryl Streep,Violet Weston,"August: Osage County
+",False
+2013,Emma Thompson,P. L. Travers,"Saving Mr. Banks
+",False
+2014,Julianne Moore,Dr. Alice Howland,"Still Alice 
+",True
+2014,Jennifer Aniston,Claire Bennett,"Cake
+",False
+2014,Marion Cotillard,Sandra Bya,"Two Days, One Night
+",False
+2014,Felicity Jones,Jane Wilde Hawking,"The Theory of Everything
+",False
+2014,Rosamund Pike,Amy Elliott-Dunne,"Gone Girl
+",False
+2014,Reese Witherspoon,Cheryl Strayed,"Wild
+",False
+2015,Brie Larson,"Joy ""Ma"" Newsome","Room 
+",True
+2015,Cate Blanchett,Carol Aird,"Carol
+",False
+2015,Jennifer Lawrence,Joy Mangano,"Joy 
+",False
+2015,Charlotte Rampling,Kate Mercer,"45 Years
+",False
+2015,Saoirse Ronan,Eilis Lacey,"Brooklyn
+",False
+2015,Charlize Theron,Imperator Furiosa,"Mad Max: Fury Road
+",False
+2016,Natalie Portman,Jackie Kennedy,"Jackie 
+",True
+2016,Amy Adams,Dr. Louise Banks,"Arrival
+",False
+2016,Annette Bening,Dorothea Fields,"20th Century Women
+",False
+2016,Isabelle Huppert,Michèle Leblanc,"Elle
+",False
+2016,Ruth Negga,Mildred Loving,"Loving
+",False
+2016,Emma Stone,Mia Dolan,"La La Land
+",False
+2017,Frances McDormand,Mildred Hayes,"Three Billboards Outside Ebbing, Missouri 
+",True
+2017,Jessica Chastain,Molly Bloom,"Molly's Game
+",False
+2017,Sally Hawkins,Elisa Esposito,"The Shape of Water
+",False
+2017,Margot Robbie,Tonya Harding,"I, Tonya
+",False
+2017,Saoirse Ronan,"Christine ""Lady Bird"" McPherson","Lady Bird
+",False
+2017,Meryl Streep,Katharine Graham,"The Post
+",False
+2018,Glenn Close,Joan Castleman,"The Wife
+",True
+2018,Lady Gaga,Ally Maine,"A Star Is Born
+",True
+2018,Yalitza Aparicio,"Cleodegaria ""Cleo"" Gutiérrez","Roma
+",False
+2018,Emily Blunt,Mary Poppins,"Mary Poppins Returns
+",False
+2018,Toni Collette,Annie Graham,"Hereditary
+",False
+2018,Olivia Colman,Queen Anne,"The Favourite
+",False
+2018,Melissa McCarthy,Lee Israel,"Can You Ever Forgive Me?
+",False
+2019,Renée Zellweger,Judy Garland,"Judy
+",True
+2019,Awkwafina,Billi Wang,"The Farewell
+",False
+2019,Cynthia Erivo,Harriet Tubman,"Harriet
+",False
+2019,Scarlett Johansson,Nicole Barber,"Marriage Story
+",False
+2019,Lupita Nyong'o,Adelaide Wilson / Red,"Us
+",False
+2019,Saoirse Ronan,"Josephine ""Jo"" March","Little Women
+",False
+2019,Charlize Theron,Megyn Kelly,"Bombshell
+",False
+2020,Carey Mulligan,"Cassandra ""Cassie"" Thomas","Promising Young Woman
+",True
+2020,Viola Davis,Ma Rainey,"Ma Rainey's Black Bottom
+",False
+2020,Andra Day,Billie Holiday,"The United States vs. Billie Holiday
+",False
+2020,Sidney Flanigan,Autumn Callahan,"Never Rarely Sometimes Always
+",False
+2020,Vanessa Kirby,Martha Weiss,"Pieces of a Woman
+",False
+2020,Frances McDormand,Fern,"Nomadland
+",False
+2020,Zendaya,Marie Jones,"Malcolm & Marie
+",False
+2021,Jessica Chastain,Tammy Faye Bakker,"The Eyes of Tammy Faye
+",True
+2021,Olivia Colman,Leda Caruso,"The Lost Daughter
+",False
+2021,Lady Gaga,Patrizia Reggiani,"House of Gucci
+",False
+2021,Alana Haim,Alana Kane,"Licorice Pizza
+",False
+2021,Nicole Kidman,Lucille Ball,"Being the Ricardos
+",False
+2021,Kristen Stewart,Princess Diana,"Spencer
+",False
+2022,Cate Blanchett,Lydia Tár,"Tár
+",True
+2022,Viola Davis,General Nanisca,"The Woman King
+",False
+2022,Danielle Deadwyler,Mamie Till,"Till
+",False
+2022,Margot Robbie,Nellie LaRoy,"Babylon
+",False
+2022,Michelle Williams,Mitzi Fabelman,"The Fabelmans
+",False
+2022,Michelle Yeoh,Evelyn Wang,"Everything Everywhere All at Once
+",False
+2023,Emma Stone,Bella Baxter,"Poor Things
+",True
+2023,Lily Gladstone,Mollie Kyle,"Killers of the Flower Moon
+",False
+2023,Sandra Hüller,Sandra Voyter,"Anatomy of a Fall
+",False
+2023,Greta Lee,Nora Moon,"Past Lives
+",False
+2023,Carey Mulligan,Felicia Montealegre Bernstein,"Maestro
+",False
+2023,Margot Robbie,Barbie,"Barbie
+",False
+2024,Demi Moore,Elisabeth Sparkle,"The Substance
+",True
+2024,Cynthia Erivo,Elphaba Thropp,"Wicked
+",False
+2024,Karla Sofía Gascón,Emilia Pérez,"Emilia Pérez
+",False
+2024,Marianne Jean-Baptiste,Pansy Deacon,"Hard Truths
+",False
+2024,Angelina Jolie,Maria Callas,"Maria
+",False
+2024,Mikey Madison,"Anora ""Ani"" Mikheeva","Anora
+",False
