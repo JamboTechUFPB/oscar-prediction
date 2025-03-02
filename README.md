@@ -4,7 +4,9 @@
 - Analyze the last 10 years winners
 - Train a ML model to predict this years winner
 
+## Diagrama com a pipeline
 
+![alt text](image.png)
 ## Awards to look for:
 
 - SAG Awards 
@@ -17,17 +19,19 @@
 year
 name
 movie
-age
-movie_genre
-sag_nominated
-sag_winner
-bafta_nominated
-bafta_winner
-critics_nominated
-critics_winner
-bilheteria_milhoes
-nota_critica
-oscar_winner
+indicada_sag
+indicada_gg
+indicada_os
+indicada_bafta
+indicada_cc
+ganhou_sag
+ganhou_os
+ganhou_bafta
+ganhou_cc
+ganhou_gg
+
+OBS: ganhou_gg é a coluna target
+
 
 # Treino com ML
 
