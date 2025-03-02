@@ -6,7 +6,7 @@ This project explores the relationship between the **Best Actress winner** at th
 
 ### Key Objectives
 
-- Analyze the last 10 years of Best Actress Oscar winners historical.
+- Analyze the last 10 years of Best Actress Oscar nominees historical.
 - Examine the influence of other prestigious awards.
 - Train a Logistic Regression Machine Learning (ML) model to predict this year’s Best Actress at the Oscars.
 
