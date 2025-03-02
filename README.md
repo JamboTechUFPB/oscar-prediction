@@ -57,12 +57,28 @@ For the prediction of the Best Actress winner, were employed:
 
 ## Results
 
-[ainda n temos results]
+Finally our model achieved the following results:
+
+- **Precision and Recall of 0.500**: These values indicate that the model is making a notable amount of errors in both directions—misclassifying positive examples (false positives) and failing to identify positive examples (false negatives). This is likely due to the scarcity of positive instances (1s) in the dataset.
+
+- **F1-score of 0.500**: This reflects the balanced relationship between precision and recall, showing that the model performs equally in both error directions.
+
+- **Accuracy of 0.750**: This suggests the model is making correct predictions in the majority of cases. However, it’s worth noting that accuracy might be skewed due to the dominance of class 0.
+
+- Remembering these results are influenced by the small sample size, as only one winner is selected per category each year. Based on our analysis, the two **most probable** candidates for winning the **97º Best Actress winner** Oscars award are **Demi Moore** and **Mikey Madison**.
+
+**Important Note**: The model is **not capable** of accounting for variables influenced by *human bias*, and predictions are based solely on available data, which may not capture all real-world influences.
 
 ## Authors
 
 - [@adriel1ft](https://github.com/adriel1ft)  
 - [@kamilyassis](https://github.com/kamilyassis)  
+
+## Future Ideas
+
+- Add additional features such as gender, age, critic ratings, and news articles. This will help not only to analyze potential correlations but also to see if these features can improve the model's performance.
+- Train different models to compare metrics
+
 
 ## How to Open the Project
 
